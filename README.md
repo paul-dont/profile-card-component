@@ -28,8 +28,8 @@ A simple card component challenge. Used basic html / CSS knowledge to complete i
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://gentle-dango-9a685d.netlify.app/)
+- Live Site URL: [Add live site URL here](https://github.com/paul-dont/profile-card-component)
 
 ## My process
 
@@ -46,4 +46,4 @@ Using flexbox to center a component and position fixed to create this beautifull
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/paul-dont)
