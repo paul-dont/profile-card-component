@@ -42,7 +42,7 @@ A simple card component challenge. Used basic html / CSS knowledge to complete i
 
 ### What I learned
 
-Using flexbox to center a component and position fixed to create this beautifull background.
+Using flexbox to center a component and position fixed to create this beautifull background!
 
 ## Author
 
